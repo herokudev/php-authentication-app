@@ -2,7 +2,8 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login</title>  
     </head>
     <body>
         <main class="box-content mx-[5%] pl-[15%] my-6 border-4 border-green-400 rounded-3xl">
@@ -25,7 +26,7 @@
                     <img class="h-5 w-auto" src="./images/Locked.svg" alt="pwd-icon">
                     <input type="password" name="password" id="password" placeholder="Password">
                 </div>
-                <button type="submit">Login</button>            
+                <button class="bg-[#2F80ED] text-white w-[470px] h-[38px] rounded-lg" type="submit">Login</button>            
             </form>   
             <div class="w-[475px] border-2 border-purple-500 lg:ml-[20%] max-w-[1200px]">
                 <div>
