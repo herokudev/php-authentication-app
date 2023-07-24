@@ -32,7 +32,7 @@
                 <div class="flex items-center justify-center">
                     <p>or continue with these social profile</p>
                 </div>
-                <div class="flex items-center justify-center mt-5">
+                <div class="flex items-center justify-center gap-8 mt-5">
                     <img class="w-[42px] h-[42px]" src="../images/Google.svg" alt="google-icon">
                     <img class="w-[42px] h-[42px]" src="../images/Facebook.svg" alt="facebook-icon">
                     <img class="w-[42px] h-[42px]" src="../images/Twitter.svg" alt="twitter-icon">

@@ -33,11 +33,11 @@
                 </div>
                 <button class="bg-[#2F80ED] text-white w-[300px] h-[38px] mt-6 rounded-lg" type="submit">Start coding now</button>            
             </form>   
-            <div class="w-[300px] mx-4mt-5 lg:ml-[15%] max-w-[1200px]">
+            <div class="w-[300px] mx-4 mt-5 lg:ml-[15%] max-w-[1200px]">
                 <div class="flex items-center justify-center">
                     <p>or continue with these social profile</p>
                 </div>
-                <div class="flex items-center justify-center mt-5">
+                <div class="flex items-center justify-center gap-8 mt-5">
                     <img class="w-[42px] h-[42px]" src="./images/Google.svg" alt="google-icon">
                     <img class="w-[42px] h-[42px]" src="./images/Facebook.svg" alt="facebook-icon">
                     <img class="w-[42px] h-[42px]" src="./images/Twitter.svg" alt="twitter-icon">
