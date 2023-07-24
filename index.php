@@ -6,8 +6,8 @@
         <title>Register</title>      
     </head>
     <body>
-        <main class="box-content w-[315px] mx-[4%] pl-[2%] my-6 border-4 border-gray-300 rounded-3xl">
-            <div class="w-[300px] max-w-[1200px]">
+        <main class="box-content w-[470px] mx-[4%] pl-[2%] lg:mt-10 lg:ml-[10%] lg:border-4 border-gray-300 rounded-3xl">
+            <div class="w-[300px] mx-4 lg:ml-[15%] lg:max-w-[1200px]">
                 <div class="w-[300px] mt-10">
                     <img class="h-5 w-auto" src="./images/devchallenges.svg" alt="Your Company">
                 </div>
@@ -22,7 +22,7 @@
                     </p>
                 </div>                                         
             </div>  
-            <form class="w-[330px] mt-8 max-w-[1200px]" action="./pages/userProfile.php" method="post">
+            <form class="w-[330px] mx-4 mt-8 lg:ml-[15%] max-w-[1200px]" action="./pages/userProfile.php" method="post">
                 <div class="w-[300px] mt-3 rounded-lg flex items-center justify-start border-2 border-gray-400">
                     <img class="h-5 w-auto pl-2 pr-2" src="./images/Email.svg" alt="email-icon">
                     <input class="p-2 outline-none" type="email" name="email" id="email" placeholder="Email">
@@ -33,7 +33,7 @@
                 </div>
                 <button class="bg-[#2F80ED] text-white w-[300px] h-[38px] mt-6 rounded-lg" type="submit">Start coding now</button>            
             </form>   
-            <div class="w-[300px] max-w-[1200px] mt-5">
+            <div class="w-[300px] mx-4mt-5 lg:ml-[15%] max-w-[1200px]">
                 <div class="flex items-center justify-center">
                     <p>or continue with these social profile</p>
                 </div>
